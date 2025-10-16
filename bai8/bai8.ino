@@ -115,11 +115,7 @@ void loop() {
     else curChar = 1;//E
   }
   if (curBtnO == HIGH && preBtnO == LOW) {
-<<<<<<< HEAD
     if(preChar==2) curChar=6;//OO
-=======
-    if(preChar==1) curChar=6;//OO
->>>>>>> fb9b852947ed04b0385df489a837fe5d6deb072e
     else curChar = 2;//O
   }
   if (curBtnF == HIGH && preBtnF == LOW) {
