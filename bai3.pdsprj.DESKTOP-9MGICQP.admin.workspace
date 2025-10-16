@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <WORKSPACE>
  <FRAME activewindow="0">
+<<<<<<< HEAD
   <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff8300000009000000d3040000cf020000</PLACEMENT>
   <WINDOW type="default" module="ISIS">
    <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="121" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="127000">
     <world y1="-8890000" x1="-12700000" y2="8890000" x2="12700000"/>
     <centre x="1016000" y="0"/>
+=======
+  <PLACEMENT>2c00000002000000030000000083ffff0083ffffffffffffffffffff8300000009000000d3040000cf020000</PLACEMENT>
+  <WINDOW type="default" module="ISIS">
+   <editor metric="0" gridmajor="2540000" mode="00000000" zoom="-1" scale="82" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="154878">
+    <world y1="-8890000" x1="-12700000" y2="8890000" x2="12700000"/>
+    <centre x="0" y="0"/>
+>>>>>>> fb9b852947ed04b0385df489a837fe5d6deb072e
     <origin x="0" y="0"/>
    </editor>
   </WINDOW>
@@ -18,13 +26,20 @@
   </editor>
  </MODULE>
  <MODULE name="ISIS">
+<<<<<<< HEAD
   <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="121" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="127000">
    <world y1="-8890000" x1="-12700000" y2="8890000" x2="12700000"/>
    <centre x="1016000" y="0"/>
+=======
+  <editor metric="0" gridmajor="2540000" mode="00000000" zoom="-1" scale="82" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="154878">
+   <world y1="-8890000" x1="-12700000" y2="8890000" x2="12700000"/>
+   <centre x="0" y="0"/>
+>>>>>>> fb9b852947ed04b0385df489a837fe5d6deb072e
    <origin x="0" y="0"/>
   </editor>
  </MODULE>
  <MODULE name="VSMDEBUG">
+<<<<<<< HEAD
   <PWI>
    <POPUP w="800" x="68" flags="00000002" y="129" h="200" pid="0" iid="-1">
     <PROPERTIES>
@@ -118,5 +133,8 @@
     </PROPERTIES>
    </POPUP>
   </PWI>
+=======
+  <PWI/>
+>>>>>>> fb9b852947ed04b0385df489a837fe5d6deb072e
  </MODULE>
 </WORKSPACE>
